@@ -9,16 +9,16 @@
             <title>Version 1.5.10</title>
             <description><![CDATA[
                 <h2>Sales Whisperer 1.5.10</h2>
-                <p>Améliorations de stabilité</p>
+                <p>Vérification automatique des mises à jour à chaque lancement</p>
             ]]></description>
-            <pubDate>Wed, 04 Mar 2026 10:55:14 +0100</pubDate>
+            <pubDate>Wed, 04 Mar 2026 11:24:59 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.10/SalesWhisperer-1.5.10.dmg"
                 sparkle:version="1.5.10"
                 sparkle:shortVersionString="1.5.10"
-                sparkle:edSignature="6QcTwl979bgQ7wYJDh7KxKF2qI3yColmenABeno4wj9KoXSs4O0rvDTH1zM9zSUgGtc7LzqLO6P3N9VHFfezBQ=="
-                length="4174936"
+                sparkle:edSignature="7/BnkPP5Oj6vruUG7VrMfGbbgCHcqd6o+48zETOsGDWj1hOciMWw6QsRE62/GGRCIvOpmpti5FoEIjpucOUiDw=="
+                length="4175081"
                 type="application/octet-stream"
             />
         </item>
