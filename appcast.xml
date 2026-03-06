@@ -1,17 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Sales Whisperer Updates</title>
         <link>https://raw.githubusercontent.com/AgentIntell/sales-whisperer-releases/main/appcast.xml</link>
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>1.5.13</title>
-            <pubDate>Thu, 05 Mar 2026 16:09:46 +0100</pubDate>
-            <sparkle:version>1.5.13</sparkle:version>
-            <sparkle:shortVersionString>1.5.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/AgentIntell/sales-whisperer-releases/main/SalesWhispererApp.dmg" length="49706189" type="application/octet-stream" sparkle:edSignature="2VXSaux8VXFWXD1avpIs8QnvAAk0dZ7Poufy6pY13OOaBPZVybJE+n3rqOunioG4kjSNtUh0+vQil9hX9x18Dw=="/>
+            <title>Version 1.5.14</title>
+            <description><![CDATA[
+                <h2>Sales Whisperer 1.5.14</h2>
+                <p>Limites IA par plan, auto-stop minutes, écran d'accueil</p>
+            ]]></description>
+            <pubDate>Tue, 03 Mar 2026 23:00:00 +0100</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.14/SalesWhisperer-1.5.14.dmg"
+                sparkle:version="1.5.14"
+                sparkle:shortVersionString="1.5.14"
+                sparkle:edSignature="HAEYBPBgxT8NSRkt+6OGA+XcQq8sG1j6cpepGpr21VjXZL601+ds7LHjvwUhblQ/gbpOc4p0i85Bn+UduOxxAw=="
+                length="50798116"
+                type="application/octet-stream"
+            />
         </item>
         <item>
             <title>Version 1.5.12</title>
@@ -21,7 +30,14 @@
             ]]></description>
             <pubDate>Wed, 04 Mar 2026 14:38:53 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.12/SalesWhisperer-1.5.12.dmg" sparkle:version="1.5.12" sparkle:shortVersionString="1.5.12" sparkle:edSignature="mGit1cOsoBIlWbwHzhYrdSV+1mIxNJDMmvhr3SziMVNNKOqcb5a7SB9WRD5DqVNthjE2n34QjmrXAZNnMyHaBQ==" length="4175132" type="application/octet-stream"/>
+            <enclosure
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.12/SalesWhisperer-1.5.12.dmg"
+                sparkle:version="1.5.12"
+                sparkle:shortVersionString="1.5.12"
+                sparkle:edSignature="mGit1cOsoBIlWbwHzhYrdSV+1mIxNJDMmvhr3SziMVNNKOqcb5a7SB9WRD5DqVNthjE2n34QjmrXAZNnMyHaBQ=="
+                length="4175132"
+                type="application/octet-stream"
+            />
         </item>
     </channel>
 </rss>
