@@ -6,6 +6,28 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
+            <title>Version 1.5.24</title>
+            <description><![CDATA[
+                <h2>Sales Whisperer 1.5.24</h2>
+                <p>Correction critique : transcription et detection des plans PRO/Performance/Admin</p>
+                <ul>
+                    <li>Correction des fonctions RPC cassees (get_plan_limits_config, check_user_units_quota)</li>
+                    <li>Correction de la detection des plans payants</li>
+                    <li>Amelioration de la resilience lors d'erreurs backend (fail-open au lieu de fail-closed)</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 08 Mar 2026 17:55:00 +0100</pubDate>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.24/SalesWhisperer-v1.5.24.dmg"
+                sparkle:version="1.5.24"
+                sparkle:shortVersionString="1.5.24"
+                sparkle:edSignature="IODQ076ID6R6ZGlJvQsEYRIO8Sw5qYJ71dNVR/n16Z0xIVwpLO+cTbKww/TMz6n/RXVtGtX3lzXyy7GhwZZiBw=="
+                length="53436335"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.5.23</title>
             <description><![CDATA[
                 <h2>Sales Whisperer 1.5.23</h2>
