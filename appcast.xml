@@ -6,178 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.24</title>
+            <title>Version 1.5.25</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.24</h2>
-                <p>Correction critique : transcription et detection des plans PRO/Performance/Admin</p>
-                <ul>
-                    <li>Correction des fonctions RPC cassees (get_plan_limits_config, check_user_units_quota)</li>
-                    <li>Correction de la detection des plans payants</li>
-                    <li>Amelioration de la resilience lors d'erreurs backend (fail-open au lieu de fail-closed)</li>
-                </ul>
+                <h2>Sales Whisperer 1.5.25</h2>
+                <p>Correction du gating des fonctionnalités par plan. Les boutons IA restent actifs et poussent à l'upgrade quand la limite est atteinte.</p>
             ]]></description>
-            <pubDate>Sun, 08 Mar 2026 17:55:00 +0100</pubDate>
+            <pubDate>Mon, 09 Mar 2026 22:53:19 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.24/SalesWhisperer-v1.5.24.dmg"
-                sparkle:version="1.5.24"
-                sparkle:shortVersionString="1.5.24"
-                sparkle:edSignature="seYtIkUcO30hl0wGqVLKimyHSXFevipsBl+roSPfYwmsCcXVabv6Ur4aVsp39bl3CegNAtbolT6kzD8YIJUuDA=="
-                length="52880363"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.23</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.23</h2>
-                <p>Configuration multi-environnement (Dev/Staging/Prod), securite renforcee, correction du systeme de mise a jour</p>
-            ]]></description>
-            <pubDate>Sun, 08 Mar 2026 12:55:00 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.23/SalesWhisperer-v1.5.23.dmg"
-                sparkle:version="1.5.23"
-                sparkle:shortVersionString="1.5.23"
-                sparkle:edSignature="ddgj1g4h+QW4z4/XWiRt4CX/lbX9Vxi2ZSYuw57H8tzRXH+r20ArinyuXtAR6nnxJzKJHRU1fbpphuf5QX/tAA=="
-                length="52943938"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.22</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.22</h2>
-                <p>SAL-108 : Prompts configurables depuis le dashboard (email de suivi, assistant general, contexte business, suggestions)</p>
-            ]]></description>
-            <pubDate>Fri, 07 Mar 2026 17:55:00 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.22/SalesWhisperer-v1.5.22.dmg"
-                sparkle:version="1.5.22"
-                sparkle:shortVersionString="1.5.22"
-                sparkle:edSignature="ifwFp4N8EN+ckWz/9/9q+T6p8XBr/pYCtB+O5HebGkZznnsDd/xuxc6xRaVpUbMug96K1PLwtunjUKYWfKFHDQ=="
-                length="50813967"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.21</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.21</h2>
-                <p>Prompts d'objectifs d'appel configurables depuis le dashboard admin</p>
-                <p>Préparation des limites de requêtes IA et minutes d'appel par plan</p>
-            ]]></description>
-            <pubDate>Fri, 07 Mar 2026 17:15:00 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.21/SalesWhisperer-v1.5.21.dmg"
-                sparkle:version="1.5.21"
-                sparkle:shortVersionString="1.5.21"
-                sparkle:edSignature="JFKEfBXK2A8CCcNQ8BgGAz8B5dtM7O7jkZBcgmQtT3WEdybf/IVXDPfMgASoOtyLLvwJcJY6eMjKADV2C/6fCA=="
-                length="50795305"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.20</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.20</h2>
-                <p>Logo animé avec effet relief 3D sur la page de connexion OAuth</p>
-            ]]></description>
-            <pubDate>Fri, 07 Mar 2026 16:02:00 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.20/SalesWhisperer-v1.5.20.dmg"
-                sparkle:version="1.5.20"
-                sparkle:shortVersionString="1.5.20"
-                sparkle:edSignature="a/RUqNUg1ugYxnDYCS8FoZuf9VbPzrRZacwk9LZJy1gBXWx/FTJFupLP/aHdIdQ67dXKOK0lv27xxRBpi8qfBA=="
-                length="50809666"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.19</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.19</h2>
-                <p>Redesign de la page de connexion OAuth : style moderne, animations, redirection vers le Dashboard</p>
-            ]]></description>
-            <pubDate>Fri, 07 Mar 2026 15:42:00 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.19/SalesWhisperer-v1.5.19.dmg"
-                sparkle:version="1.5.19"
-                sparkle:shortVersionString="1.5.19"
-                sparkle:edSignature="RwUyU2luassd2gxQgtedOTgcXCrG0b1DXFzgYuPA1YANwl3yHYVbfWtYpIYwSci3QeTncu6pKwvSpLUF8nU6Bw=="
-                length="50811325"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.18</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.18</h2>
-                <p>Sécurité renforcée : suppression des clés API en dur, authentification améliorée</p>
-            ]]></description>
-            <pubDate>Fri, 07 Mar 2026 15:09:00 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.18/SalesWhisperer-1.5.18.dmg"
-                sparkle:version="1.5.18"
-                sparkle:shortVersionString="1.5.18"
-                sparkle:edSignature="VcTzgbN5PYMMl4dtc5fZzM2IfXV6I+78dL6i65FbLFTaLhlIH0LO7NCRN4NGAe5RAiygPw7cC7+OaebMfrtrAA=="
-                length="50808649"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.17</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.17</h2>
-                <p>Limites IA persistantes : blocage jusqu'au reset du quota (minuit), compteur de temps restant</p>
-            ]]></description>
-            <pubDate>Thu, 06 Mar 2026 16:37:00 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.17/SalesWhisperer-1.5.17.dmg"
-                sparkle:version="1.5.17"
-                sparkle:shortVersionString="1.5.17"
-                sparkle:edSignature="0PbfAOcb918ngfLpHifCgV8fL4XmoN+gvy0U1jSeQzse7cW/aOA8ah6FRJmHR1n1huVVwYRnbeXbYzcrfpejCQ=="
-                length="50809457"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.16</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.16</h2>
-                <p>Limites IA: message correct, arrêt appel, boutons désactivés, contexte intelligent</p>
-            ]]></description>
-            <pubDate>Thu, 06 Mar 2026 16:00:00 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.16/SalesWhisperer-1.5.16.dmg"
-                sparkle:version="1.5.16"
-                sparkle:shortVersionString="1.5.16"
-                sparkle:edSignature="WE9g2+JRLFuJD4ESn1594eCityYsCUH3oymNcZUW1NYLMZfZ8f34M0KlohGtExh4zpvJ4QZlYfVNWD1eaC5aCg=="
-                length="50794237"
-                type="application/octet-stream"
-            />
-        </item>
-        <item>
-            <title>Version 1.5.12</title>
-            <description><![CDATA[
-                <h2>Sales Whisperer 1.5.12</h2>
-                <p>Ugo aka Escanor</p>
-            ]]></description>
-            <pubDate>Wed, 04 Mar 2026 14:38:53 +0100</pubDate>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.12/SalesWhisperer-1.5.12.dmg"
-                sparkle:version="1.5.12"
-                sparkle:shortVersionString="1.5.12"
-                sparkle:edSignature="mGit1cOsoBIlWbwHzhYrdSV+1mIxNJDMmvhr3SziMVNNKOqcb5a7SB9WRD5DqVNthjE2n34QjmrXAZNnMyHaBQ=="
-                length="4175132"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.25/SalesWhispererApp_v1.5.25_b1.5.25.dmg"
+                sparkle:version="1.5.25"
+                sparkle:shortVersionString="1.5.25"
+                sparkle:edSignature="bZ0fGTUdTEEbaN3YwF9LConQWmMGkoihDxRr+L8bUkc08P6qicClCjnehZpwyqL3WrepcCJpZ3dIXoXQk2Q6CQ=="
+                length="52905750"
                 type="application/octet-stream"
             />
         </item>
