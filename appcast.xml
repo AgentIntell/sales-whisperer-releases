@@ -11,14 +11,14 @@
                 <h2>Sales Whisperer 1.5.29</h2>
                 <p>Mise à jour vers la version 1.5.29</p>
             ]]></description>
-            <pubDate>Tue, 10 Mar 2026 20:33:48 +0100</pubDate>
+            <pubDate>Tue, 10 Mar 2026 20:38:59 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.29/SalesWhispererApp_v1.5.29_b1.5.29.dmg"
                 sparkle:version="1.5.29"
                 sparkle:shortVersionString="1.5.29"
-                sparkle:edSignature="Gn+55zp7nkeJAreQoLJc3N70dAxWtDlqNm0t2sFv4961UuinIHBHIOhY2QMzTS4T00Orh3T8crJth+pb4aCVBQ=="
-                length="50960722"
+                sparkle:edSignature="uzROlaFM0LFCrLSzfrHrCJdDk4tuvYVQVxdF4p8DtE0Xt4Pj2jzdGlO1sr//0BLQSzbihTlF0zV/nxKvl8T9AA=="
+                length="50991617"
                 type="application/octet-stream"
             />
         </item>
