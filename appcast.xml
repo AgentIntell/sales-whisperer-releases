@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.28</title>
+            <title>Version 1.5.29</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.28</h2>
-                <p>Simplification des paramètres, nettoyage des features inutilisées, modèle crédits uniquement</p>
+                <h2>Sales Whisperer 1.5.29</h2>
+                <p>Séparation Dev/Prod, badge DEV, Sparkle désactivé en DEV</p>
             ]]></description>
-            <pubDate>Tue, 10 Mar 2026 13:00:08 +0100</pubDate>
+            <pubDate>Tue, 10 Mar 2026 20:00:07 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.28/SalesWhispererApp_v1.5.28_b1.5.28.dmg"
-                sparkle:version="1.5.28"
-                sparkle:shortVersionString="1.5.28"
-                sparkle:edSignature="Q4rkf6GQlKqXFRma2xSGg1/QCEltRbZZ+HLwyz8ZIsqpOEqmOV2OIxTzzK+WM0w9qYORWr2+144bIKUgbLNoBQ=="
-                length="52868050"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.29/SalesWhispererApp_v1.5.29_b1.5.29.dmg"
+                sparkle:version="1.5.29"
+                sparkle:shortVersionString="1.5.29"
+                sparkle:edSignature="fbvFHBa9aGTvh51lTbHsqTD6z5Vbrh/BqJoHhcQgIYlQl5INV+yHGcygVW9Frz145LvW2ZFDCSbIs+Zz3jcsCw=="
+                length="52845924"
                 type="application/octet-stream"
             />
         </item>
