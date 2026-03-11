@@ -6,19 +6,19 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.32</title>
+            <title>Version 1.5.33</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.32</h2>
-                <p>Mise à jour vers la version 1.5.32</p>
+                <h2>Sales Whisperer 1.5.33</h2>
+                <p>Ajout bouton mode furtif, corrections traductions, fix dashboard stats et transcript</p>
             ]]></description>
-            <pubDate>Wed, 11 Mar 2026 12:13:49 +0100</pubDate>
+            <pubDate>Wed, 11 Mar 2026 21:54:50 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.32/SalesWhispererApp_v1.5.32_b1.5.32.dmg"
-                sparkle:version="1.5.32"
-                sparkle:shortVersionString="1.5.32"
-                sparkle:edSignature="l8ck6Lf87H3F0vY6lVgfRCfcE82Ok3pbKPKfbqMHhmV+L68jVy9qKCOCUIT/QY6VL3pdGL2UnJj6/IFZEIN4Bw=="
-                length="51006351"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.33/SalesWhispererApp_v1.5.33_b1.5.33.dmg"
+                sparkle:version="1.5.33"
+                sparkle:shortVersionString="1.5.33"
+                sparkle:edSignature="uhQPa4bUUcv+YLL3zXVVPAiTITOvUyqyEyQhIAi0DNYBsr4p+c1Jdlxg/BYtAMsLRs3K4Rt7fbTQvJJdpkYJDQ=="
+                length="51012625"
                 type="application/octet-stream"
             />
         </item>
