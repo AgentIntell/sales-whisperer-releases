@@ -6,23 +6,24 @@
         <description>Mises à jour de Sales Whisperer</description>
         <language>fr</language>
         <item>
-            <title>Version 1.5.37</title>
+            <title>Version 1.5.38</title>
             <description><![CDATA[
-                <h2>Sales Whisperer 1.5.37</h2>
+                <h2>Sales Whisperer 1.5.38</h2>
                 <ul>
-                    <li>Fix : parsing robuste de l'analyse IA post-appel (tolère les champs manquants ou renommés)</li>
-                    <li>Support camelCase et snake_case dans les réponses OpenAI</li>
-                    <li>Fenêtre de résumé post-appel fiable même en cas d'erreur DB</li>
+                    <li>Blocage complet de la zone de saisie et des boutons quand les crédits sont épuisés</li>
+                    <li>Blocage du raccourci ⌘↩ avec proposition d'upgrade</li>
+                    <li>Message clair "Crédits épuisés" au lieu de "Erreur de format de réponse"</li>
+                    <li>Détection des 429 sur tous les points d'appel OpenAI</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 12 Mar 2026 15:00:00 +0100</pubDate>
+            <pubDate>Fri, 13 Mar 2026 02:09:38 +0100</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.37/SalesWhispererApp_v1.5.37_b1.5.37.dmg"
-                sparkle:version="1.5.37"
-                sparkle:shortVersionString="1.5.37"
-                sparkle:edSignature="SCEe1o8z9nRFr9+Yr+ZzKZqyaPJAmODwG/Mux7QzyCIId7vs4FVx7tejKl/mFjYdssw6+Eih9QYOupdC7DLODA=="
-                length="50458288"
+                url="https://github.com/AgentIntell/sales-whisperer-releases/releases/download/v1.5.38/SalesWhisperer-1.5.38.dmg"
+                sparkle:version="1.5.38"
+                sparkle:shortVersionString="1.5.38"
+                sparkle:edSignature="pFqspxmoqHa0Wvi668lPvbPbQyUJLO9AlnxCJdQw99AKbhxrBfet5dmdYD7gZZ6lJBJ1r5oU7gNs7VFh+GluCA=="
+                length="52183740"
                 type="application/octet-stream"
             />
         </item>
